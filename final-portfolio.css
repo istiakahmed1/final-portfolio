@@ -1,0 +1,82 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+samp {
+    color: gold;
+    font-size: 80px;
+}
+
+.flexible {
+    display: flex;
+    margin: 150px;
+}
+
+.container {
+    width: 50%;
+    padding-right: 5%;
+}
+
+.container img {
+    width: 100%;
+    padding-top: 10%;
+
+
+}
+
+.profile {
+    text-decoration: none;
+    background-color: blue;
+    background-image: -o-linear-gradient(blue green);
+    color: beige;
+    padding: 10px 40px;
+}
+
+#pic {
+    padding-top: 5%;
+    width: 300px;
+    height: 100px;
+    padding-left: 10%;
+}
+
+#dream {
+    padding-top: 10%;
+    padding-left: 20%;
+}
+
+#xoss {
+    padding-top: 10%;
+}
+
+#Experiences {
+    padding-left: 10%;
+}
+
+p {
+    text-align: justify;
+}
+
+#pro {
+    box-shadow: 10px 10px 40px red;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    border-left: 8px solid red;
+}
+
+#noob {
+    box-shadow: 10px 10px 40px rgb(8, 244, 8);
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    border-left: 8px solid green;
+}
